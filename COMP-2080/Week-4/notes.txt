@@ -1,0 +1,5 @@
+
+bigOh = upper bound (can't get better; could get worst) worst case running time
+n**2 = O(n**3)
+
+bigTheta = worst case running time
