@@ -3,6 +3,7 @@
 Implementation of a simple Queue in Python
 """
 
+
 class Queue:
     def __init__(self, size: int):
         self.maxSize = size
@@ -37,7 +38,6 @@ class Queue:
 q = Queue(4)
 
 q.is_empty()
-q.pop()
 
 q.push(4)
 q.push(2)
